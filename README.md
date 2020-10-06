@@ -1,4 +1,4 @@
-# ec2instanceconnectcli_docker_source
+# ec2instanceconnectcli-docker
 The mssh command image for AWS
 
 ## Reference
